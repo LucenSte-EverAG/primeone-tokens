@@ -4321,10 +4321,10 @@
         "$value": "{eads-gray.500}"
       }
     },
-    "eads-blue": {
+    "blue": {
       "50": {
         "$type": "color",
-        "$value": "{eads-blue.100}"
+        "$value": "{blue.100}"
       },
       "100": {
         "$type": "color",
@@ -4364,7 +4364,7 @@
       },
       "950": {
         "$type": "color",
-        "$value": "{eads-blue.900}"
+        "$value": "{blue.900}"
       }
     },
     "eads-teal": {
@@ -6085,7 +6085,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{eads-blue.700}"
+              "$value": "{blue.700}"
             }
           },
           "layer1": {
@@ -6107,7 +6107,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{eads-blue.700}"
+              "$value": "{blue.700}"
             }
           }
         },
@@ -6453,7 +6453,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{eads-blue.700}"
+              "$value": "{blue.700}"
             }
           }
         }
@@ -6641,7 +6641,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{eads-blue.700}"
+              "$value": "{blue.700}"
             }
           }
         }
@@ -7975,50 +7975,50 @@
       "tooltip": {
         "background": {
           "$type": "color",
-          "$value": "{eads-blue.900}"
+          "$value": "{blue.900}"
         }
       }
     },
     "primary": {
       "50": {
         "$type": "color",
-        "$value": "{eads-blue.50}"
+        "$value": "{blue.50}"
       },
       "200": {
         "$type": "color",
-        "$value": "{eads-blue.200}"
+        "$value": "{blue.200}"
       },
       "300": {
         "$type": "color",
-        "$value": "{eads-blue.300}"
+        "$value": "{blue.300}"
       },
       "400": {
         "$type": "color",
-        "$value": "{eads-blue.400}"
+        "$value": "{blue.400}"
       },
       "500": {
         "$type": "color",
-        "$value": "{eads-blue.500}"
+        "$value": "{blue.500}"
       },
       "600": {
         "$type": "color",
-        "$value": "{eads-blue.600}"
+        "$value": "{blue.600}"
       },
       "700": {
         "$type": "color",
-        "$value": "{eads-blue.700}"
+        "$value": "{blue.700}"
       },
       "800": {
         "$type": "color",
-        "$value": "{eads-blue.800}"
+        "$value": "{blue.800}"
       },
       "900": {
         "$type": "color",
-        "$value": "{eads-blue.900}"
+        "$value": "{blue.900}"
       },
       "950": {
         "$type": "color",
-        "$value": "{eads-blue.950}"
+        "$value": "{blue.950}"
       },
       "color": {
         "$type": "color",
@@ -8249,7 +8249,7 @@
       "color": {
         "blue-blue-70-base-brand-blue": {
           "$type": "color",
-          "$value": "{eads-blue.700}"
+          "$value": "{blue.700}"
         },
         "chart-colors-chart-2-brand-orange": {
           "$type": "color",
@@ -8843,7 +8843,7 @@
       "focus": {
         "background": {
           "$type": "color",
-          "$value": "{eads-blue.200}"
+          "$value": "{blue.200}"
         },
         "color": {
           "$type": "color",
@@ -9109,50 +9109,50 @@
       "tooltip": {
         "background": {
           "$type": "color",
-          "$value": "{eads-blue.900}"
+          "$value": "{blue.900}"
         }
       }
     },
     "primary": {
       "50": {
         "$type": "color",
-        "$value": "{eads-blue.50}"
+        "$value": "{blue.50}"
       },
       "200": {
         "$type": "color",
-        "$value": "{eads-blue.200}"
+        "$value": "{blue.200}"
       },
       "300": {
         "$type": "color",
-        "$value": "{eads-blue.300}"
+        "$value": "{blue.300}"
       },
       "400": {
         "$type": "color",
-        "$value": "{eads-blue.400}"
+        "$value": "{blue.400}"
       },
       "500": {
         "$type": "color",
-        "$value": "{eads-blue.500}"
+        "$value": "{blue.500}"
       },
       "600": {
         "$type": "color",
-        "$value": "{eads-blue.600}"
+        "$value": "{blue.600}"
       },
       "700": {
         "$type": "color",
-        "$value": "{eads-blue.700}"
+        "$value": "{blue.700}"
       },
       "800": {
         "$type": "color",
-        "$value": "{eads-blue.800}"
+        "$value": "{blue.800}"
       },
       "900": {
         "$type": "color",
-        "$value": "{eads-blue.900}"
+        "$value": "{blue.900}"
       },
       "950": {
         "$type": "color",
-        "$value": "{eads-blue.950}"
+        "$value": "{blue.950}"
       },
       "color": {
         "$type": "color",
@@ -9383,7 +9383,7 @@
       "color": {
         "blue-blue-70-base-brand-blue": {
           "$type": "color",
-          "$value": "{eads-blue.700}"
+          "$value": "{blue.700}"
         },
         "chart-colors-chart-2-brand-orange": {
           "$type": "color",
