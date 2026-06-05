@@ -9748,6 +9748,16 @@
       }
     }
   },
+  "aura/custom": {
+    "test": {
+      "lifecycle": {
+        "gap": {
+          "$type": "number",
+          "$value": "{scale.4-3125}"
+        }
+      }
+    }
+  },
   "aura/semantic/common": {
     "anchor": {
       "gutter": {
@@ -22066,6 +22076,8 @@
       }
     }
   },
+  "aura/custom-bridge-test/mode 1": {},
+  "aura/custom-bridge-test/dark": {},
   "aura/effects": {
     "Bluey": {
       "$value": [
